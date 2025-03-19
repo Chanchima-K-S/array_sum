@@ -4,7 +4,7 @@ arr = []
 # Read the number of elements
 n = int(input("Enter how many elements you have to add: "))
 
-# Read and append elements to the list
+# Read and append elements to this list
 for i in range(n):
     x = int(input("Enter the element: "))  # Convert input to integer
     arr.append(x)
